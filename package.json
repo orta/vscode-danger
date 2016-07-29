@@ -2,7 +2,7 @@
     "name": "vscode-danger",
     "displayName": "Danger",
     "description": "Adds Danger support to VS Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Orta",
      "galleryBanner": {
         "color": "#4DFF95",
